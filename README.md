@@ -1,7 +1,7 @@
 docker-uptime
 ==============
 
-A Dockerfile that installs the latest mongodb, nodejs and uptime
+A Dockerfile that installs the latest mongodb, nodejs and [uptime](https://github.com/fzaninotto/uptime)
 
 Install
 -------

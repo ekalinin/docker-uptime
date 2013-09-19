@@ -1,15 +1,15 @@
-docker-upstart
+docker-uptime
 ==============
 
-A Dockerfile that installs the latest mongodb, nodejs and upstart
+A Dockerfile that installs the latest mongodb, nodejs and uptime
 
 Install
 -------
 
 ````bash
 # get the latests version
-$ git clone https://github.com/ekalinin/docker-upstart
-$ cd docker-upstart
+$ git clone https://github.com/ekalinin/docker-uptime
+$ cd docker-uptime
 
 # build the docker image
 $ make build
@@ -41,7 +41,7 @@ root@127.0.0.1's password:
  Connection to 127.0.0.1 closed.
 ````
 
-### Check upstart UI
+### Check uptime UI
 
 ````bash
 $ curl -I http://127.0.0.1:49163

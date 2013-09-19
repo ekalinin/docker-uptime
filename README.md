@@ -36,10 +36,7 @@ fb5aa74a5247        kev/docker-uptime:latest        /usr/bin/supervisord   2 day
 
 $ ssh -p 49162 root@127.0.0.1
 root@127.0.0.1's password: 
-Welcome to Ubuntu 12.04 LTS (GNU/Linux 3.8.0-19-generic x86-64)
 
- * Documentation:  https://help.ubuntu.com/
- Last login: Mon Sep 16 13:32:58 2013 from ip-172-17-42-1.eu-west-1.compute.internal
  root@fb5aa74a5247:~# logout
  Connection to 127.0.0.1 closed.
 ````
